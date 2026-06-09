@@ -1,0 +1,14 @@
+﻿feature_A,feature_B,pearson_r
+현금전환주기_CCC_diff,재고자산회전율_diff_industry,0.6812
+매입채무회전율,재고자산회전율_diff_industry,0.6526
+판관비율,감가상각비율_ratio,0.651
+종업원,자산총계(요약)(백만원),0.6256
+총자산회전율_ratio_industry,투하자본회전율_ratio,0.611
+자기자본회전율,총자산회전율_ratio_industry,0.5999
+종업원,종업원_ratio,0.5928
+금융비용대매출액_ratio_industry,감가상각비율_ratio,0.5899
+재고자산회전율_diff_industry,현금ROA,-0.5636
+유형자산회전율_ratio,비유동자산회전율_ratio,0.5615
+금융비용대매출액_ratio_industry,판관비율,0.5336
+매입채무회전율,현금전환주기_CCC_diff,0.5287
+차입금의존도_ratio_industry,장기부채의존도,0.5105
