@@ -1,2 +1,0 @@
-﻿Method,FeatureFile,N_Features,threshold,CV_Val_F1,Test_F1,Gap_F1,CV_Val_Recall,Test_Recall,Gap_Recall,CV_Val_Precision,Test_Precision,Gap_Precision,CV_Val_ROC_AUC,Test_ROC_AUC,Gap_ROC_AUC,CV_Val_PR_AUC,Test_PR_AUC,Gap_PR_AUC,CV_Val_Accuracy,Test_Accuracy,Gap_Accuracy
-ClassWeight,lasso_features_top55--45.csv,45,0.44,0.4267,0.4203,-0.0064,0.6955,0.9119,0.2163,0.3124,0.2731,-0.0393,0.9569,0.9597,0.0027,0.4161,0.4525,0.0365,0.9431,0.9032,-0.0399
