@@ -1,9 +1,0 @@
-﻿feature_A,feature_B,pearson_r
-부채비율_ratio_industry,비유동비율_ratio_industry,0.8879
-자본잠식률_ratio,사내유보율_ratio_industry,0.861
-비유동비율_ratio_industry,장기부채비율_ratio,0.8487
-당좌비율_추정_diff,현금비율_ratio_industry,0.786
-매입채무회전율,매입채무회전율_ratio,0.7714
-부채비율_ratio_industry,장기부채비율_ratio,0.7692
-재고자산회전율_diff_industry,재고자산회전율_ratio,0.7466
-매입채무회전율,매출채권회수기간_ratio,0.7186
