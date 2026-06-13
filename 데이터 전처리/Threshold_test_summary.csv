@@ -1,2 +1,0 @@
-﻿CV_median_threshold,Test_F1,Test_Recall,Test_Precision,Test_ROC_AUC,Test_PR_AUC,Best_Test_threshold,Best_Test_F1,Best_Test_Recall
-0.305,0.3786,0.9515,0.2363,0.9597,0.4525,0.57,0.4387,0.804
