@@ -1,0 +1,10 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M22_정보통신업,1,금융비용부담률_diff,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M22_정보통신업,2,재고자산회전율,활동성 (Activity),★ 핵심피처 (SHAP+Perm 모두 높음)
+M22_정보통신업,3,금융부채비율_ratio,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M22_정보통신업,4,영업CF_유동부채_ratio,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M22_정보통신업,5,유동비율_ratio,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M22_정보통신업,6,감가상각비율_ratio,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M22_정보통신업,7,영업CF_총부채,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M22_정보통신업,8,비유동장기적합률,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M22_정보통신업,9,ROE,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)

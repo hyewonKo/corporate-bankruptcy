@@ -1,0 +1,10 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M25_오락_문화_개인서비스업,1,영업CF_총부채,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M25_오락_문화_개인서비스업,2,총자본영업이익률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M25_오락_문화_개인서비스업,2,유보율,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M25_오락_문화_개인서비스업,4,영업CF_유동부채,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M25_오락_문화_개인서비스업,5,금융비용부담률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M25_오락_문화_개인서비스업,6,자기자본증가율,성장성 (Growth),★ 핵심피처 (SHAP+Perm 모두 높음)
+M25_오락_문화_개인서비스업,7,ROIC,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M25_오락_문화_개인서비스업,8,영업이익률_diff,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M25_오락_문화_개인서비스업,10,비유동비율,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)

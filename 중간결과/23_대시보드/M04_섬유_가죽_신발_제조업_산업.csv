@@ -1,0 +1,9 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M04_섬유_가죽_신발_제조업,1,총자본영업이익률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M04_섬유_가죽_신발_제조업,2,영업이익률_ratio,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M04_섬유_가죽_신발_제조업,2,금융비용부담률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M04_섬유_가죽_신발_제조업,2,영업CF_유동부채,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M04_섬유_가죽_신발_제조업,5,총자산증가율_ratio_industry,성장성 (Growth),★ 핵심피처 (SHAP+Perm 모두 높음)
+M04_섬유_가죽_신발_제조업,6,매출액증가율,성장성 (Growth),★ 핵심피처 (SHAP+Perm 모두 높음)
+M04_섬유_가죽_신발_제조업,7,순이익률_ratio,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M04_섬유_가죽_신발_제조업,8,영업CF_총부채,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)

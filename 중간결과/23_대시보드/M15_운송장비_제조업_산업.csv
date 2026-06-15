@@ -1,0 +1,8 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M15_운송장비_제조업,1,총자본영업이익률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M15_운송장비_제조업,2,EBIT대매출액_ratio_industry,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M15_운송장비_제조업,3,영업이익률변화,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M15_운송장비_제조업,4,금융비용부담률_diff,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M15_운송장비_제조업,5,순운전자본회전율,활동성 (Activity),★ 핵심피처 (SHAP+Perm 모두 높음)
+M15_운송장비_제조업,5,영업CF_총부채_diff,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M15_운송장비_제조업,5,ROA변화_ratio,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)

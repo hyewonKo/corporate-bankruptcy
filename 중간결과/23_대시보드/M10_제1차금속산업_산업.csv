@@ -1,0 +1,13 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M10_제1차금속산업,1,유형자산회전율_ratio,활동성 (Activity),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,2,당좌비율_추정_ratio,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,3,매출원가율,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,3,EBITDA대매출액_ratio_industry,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,5,영업이익률_diff,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,6,순운전자본대총자본_ratio_industry,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,7,자기자본증가율_ratio_industry,성장성 (Growth),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,8,순운전자본회전율,활동성 (Activity),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,9,ROIC,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,10,순차입금비율_diff,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,11,금융부채비율_ratio,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M10_제1차금속산업,12,금융비용부담률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)

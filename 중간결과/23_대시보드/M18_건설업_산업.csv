@@ -1,0 +1,9 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M18_건설업,1,금융비용부담률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M18_건설업,2,자기자본증가율,성장성 (Growth),★ 핵심피처 (SHAP+Perm 모두 높음)
+M18_건설업,2,유보율_ratio,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M18_건설업,4,ROA,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M18_건설업,5,ROE,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M18_건설업,6,비유동비율,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M18_건설업,7,영업CF_총부채,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M18_건설업,8,총자산회전율_ratio_industry,활동성 (Activity),★ 핵심피처 (SHAP+Perm 모두 높음)
