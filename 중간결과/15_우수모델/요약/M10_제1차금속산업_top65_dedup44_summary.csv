@@ -1,0 +1,2 @@
+﻿Industry,FeatureSet,FeatureFile,N_Features,Method,SMOTE_Ratio,Model,Recall_min,Threshold_basis,Threshold,CV_Val_F1,Test_F1,Gap_F1,CV_Val_Recall,Test_Recall,Gap_Recall,CV_Val_Precision,Test_Precision,Gap_Precision,CV_Val_ROC_AUC,Test_ROC_AUC,Gap_ROC_AUC,CV_Val_PR_AUC,Test_PR_AUC,Gap_PR_AUC,CV_Val_Accuracy,Test_Accuracy,Gap_Accuracy
+M10_제1차금속산업,top65_dedup44,lasso_features_top65--44.csv,44,CTGAN,0.2,RandomForest,0.9,Test,0.02,0.0699,0.0411,-0.0288,1.0,1.0,0.0,0.0363,0.021,-0.0153,0.8677,0.8597,-0.0081,0.2132,0.1313,-0.082,0.0363,0.021,-0.0153

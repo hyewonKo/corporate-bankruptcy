@@ -1,0 +1,2 @@
+﻿Industry,FeatureSet,FeatureFile,N_Features,Method,SMOTE_Ratio,Model,Recall_min,Threshold_basis,Threshold,CV_Val_F1,Test_F1,Gap_F1,CV_Val_Recall,Test_Recall,Gap_Recall,CV_Val_Precision,Test_Precision,Gap_Precision,CV_Val_ROC_AUC,Test_ROC_AUC,Gap_ROC_AUC,CV_Val_PR_AUC,Test_PR_AUC,Gap_PR_AUC,CV_Val_Accuracy,Test_Accuracy,Gap_Accuracy
+M08_화학_의약품_고무_플라스틱_제조업,top60_dedup41,lasso_features_top60--41.csv,41,CTGAN,0.2,LightGBM,0.9,Test,0.09,0.3127,0.479,0.1663,0.8203,0.9176,0.0973,0.1978,0.3241,0.1263,0.8929,0.9743,0.0814,0.3099,0.76,0.45,0.8426,0.9035,0.061

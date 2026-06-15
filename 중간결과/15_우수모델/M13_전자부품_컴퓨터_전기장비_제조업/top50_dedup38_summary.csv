@@ -1,2 +1,0 @@
-﻿FeatureSet,FeatureFile,N_Features,Method,SMOTE_Ratio,Model,Recall_min,Threshold_basis,Threshold,CV_Val_F1,Test_F1,Gap_F1,CV_Val_Recall,Test_Recall,Gap_Recall,CV_Val_Precision,Test_Precision,Gap_Precision,CV_Val_ROC_AUC,Test_ROC_AUC,Gap_ROC_AUC,CV_Val_PR_AUC,Test_PR_AUC,Gap_PR_AUC,CV_Val_Accuracy,Test_Accuracy,Gap_Accuracy
-top50_dedup38,lasso_features_top50--5.csv,5,ClassWeight,-,RandomForest,0.9,Test,0.11,0.129,0.1525,0.0235,0.8713,0.9004,0.0291,0.0697,0.0833,0.0136,0.7737,0.7862,0.0125,0.1991,0.2079,0.0088,0.4543,0.4702,0.0159

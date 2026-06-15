@@ -1,0 +1,2 @@
+﻿Industry,FeatureSet,FeatureFile,N_Features,Method,SMOTE_Ratio,Model,Recall_min,Threshold_basis,Threshold,CV_Val_F1,Test_F1,Gap_F1,CV_Val_Recall,Test_Recall,Gap_Recall,CV_Val_Precision,Test_Precision,Gap_Precision,CV_Val_ROC_AUC,Test_ROC_AUC,Gap_ROC_AUC,CV_Val_PR_AUC,Test_PR_AUC,Gap_PR_AUC,CV_Val_Accuracy,Test_Accuracy,Gap_Accuracy
+M20_숙박_음식점업,top60_dedup6,lasso_features_top60--6.csv,6,ClassWeight,-,RandomForest,0.9,Test,0.22,0.225,0.2467,0.0217,1.0,0.9036,-0.0964,0.1271,0.1429,0.0158,0.7748,0.7654,-0.0095,0.2683,0.2745,0.0061,0.2187,0.438,0.2194
