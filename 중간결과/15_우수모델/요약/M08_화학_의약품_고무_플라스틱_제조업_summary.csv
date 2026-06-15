@@ -1,0 +1,2 @@
+﻿FeatureSet,FeatureFile,N_Features,Method,SMOTE_Ratio,Model,Recall_min,Threshold_basis,Threshold,CV_Val_F1,Test_F1,Gap_F1,CV_Val_Recall,Test_Recall,Gap_Recall,CV_Val_Precision,Test_Precision,Gap_Precision,CV_Val_ROC_AUC,Test_ROC_AUC,Gap_ROC_AUC,CV_Val_PR_AUC,Test_PR_AUC,Gap_PR_AUC,CV_Val_Accuracy,Test_Accuracy,Gap_Accuracy
+top60_dedup41,lasso_features_top60--41.csv,41,CTGAN,0.2,LightGBM,0.9,Test,0.03,0.2389,0.3342,0.0954,0.9444,0.9139,-0.0306,0.1392,0.2045,0.0653,0.9295,0.9374,0.0079,0.3246,0.4219,0.0973,0.7719,0.8241,0.0522
