@@ -1,0 +1,8 @@
+﻿Combined_Rank,Feature,Category,Feature_Type
+1,금융비용부담률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+2,재고자산회전율_ratio_industry,미분류,★ 핵심피처 (SHAP+Perm 모두 높음)
+3,영업이익률변화_diff,미분류,★ 핵심피처 (SHAP+Perm 모두 높음)
+4,EBITDA대매출액_ratio_industry,미분류,★ 핵심피처 (SHAP+Perm 모두 높음)
+4,ROA,미분류,★ 핵심피처 (SHAP+Perm 모두 높음)
+6,총자본영업이익률_diff,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+7,유보율_ratio,미분류,★ 핵심피처 (SHAP+Perm 모두 높음)

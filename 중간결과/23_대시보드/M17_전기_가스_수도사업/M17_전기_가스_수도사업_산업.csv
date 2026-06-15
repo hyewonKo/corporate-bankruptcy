@@ -1,0 +1,7 @@
+﻿Combined_Rank,Feature,Category,Feature_Type
+1,금융비용부담률_ratio,미분류,★ 핵심피처 (SHAP+Perm 모두 높음)
+2,총자본영업이익률,미분류,★ 핵심피처 (SHAP+Perm 모두 높음)
+3,재고자산회전율_ratio,미분류,★ 핵심피처 (SHAP+Perm 모두 높음)
+4,ROA,미분류,★ 핵심피처 (SHAP+Perm 모두 높음)
+5,영업CF_총부채_diff,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+6,자본잠식률_ratio,미분류,★ 핵심피처 (SHAP+Perm 모두 높음)
