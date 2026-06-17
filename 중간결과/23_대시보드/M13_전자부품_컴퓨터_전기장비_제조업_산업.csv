@@ -1,0 +1,4 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M13_전자부품_컴퓨터_전기장비_제조업,1,금융비용부담률_ratio,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M13_전자부품_컴퓨터_전기장비_제조업,2,부채비율,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M13_전자부품_컴퓨터_전기장비_제조업,3,비유동장기적합률_ratio,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)

@@ -1,0 +1,2 @@
+﻿Industry,FeatureSet,FeatureFile,N_Features,Method,SMOTE_Ratio,Model,Recall_min,Threshold_basis,Threshold,CV_Val_F1,Test_F1,Gap_F1,CV_Val_Recall,Test_Recall,Gap_Recall,CV_Val_Precision,Test_Precision,Gap_Precision,CV_Val_ROC_AUC,Test_ROC_AUC,Gap_ROC_AUC,CV_Val_PR_AUC,Test_PR_AUC,Gap_PR_AUC,CV_Val_Accuracy,Test_Accuracy,Gap_Accuracy
+M18_건설업,top55_dedup36,lasso_features_top55--36.csv,36,ClassWeight,-,RandomForest,0.9,Test,0.46,0.2762,0.3235,0.0473,0.9178,0.9034,-0.0145,0.1635,0.197,0.0336,0.9236,0.914,-0.0096,0.3319,0.5605,0.2286,0.8081,0.7542,-0.0539

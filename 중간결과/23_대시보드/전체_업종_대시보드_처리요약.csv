@@ -1,0 +1,2 @@
+﻿Industry,Model,Threshold,N_Filtered,N_SHAP_Match,N_CoreFeature
+M19_도매및소매업,XGBoost,0.34,11271,11271,9

@@ -1,0 +1,9 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M11_조립금속제품_제조업,1,총자본영업이익률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M11_조립금속제품_제조업,2,ROA변화,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M11_조립금속제품_제조업,3,EBITDA마진_diff,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M11_조립금속제품_제조업,4,금융비용부담률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M11_조립금속제품_제조업,5,ROIC,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M11_조립금속제품_제조업,6,순운전자본회전율,활동성 (Activity),★ 핵심피처 (SHAP+Perm 모두 높음)
+M11_조립금속제품_제조업,8,총자산회전율_diff_industry,활동성 (Activity),★ 핵심피처 (SHAP+Perm 모두 높음)
+M11_조립금속제품_제조업,9,유동비율_ratio_industry,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)

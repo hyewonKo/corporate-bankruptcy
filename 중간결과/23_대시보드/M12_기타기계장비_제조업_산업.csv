@@ -1,0 +1,9 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M12_기타기계장비_제조업,1,총자본영업이익률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M12_기타기계장비_제조업,2,영업이익률_ratio,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M12_기타기계장비_제조업,3,금융비용부담률_ratio,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M12_기타기계장비_제조업,4,영업CF_총부채,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M12_기타기계장비_제조업,5,영업CF_유동부채,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M12_기타기계장비_제조업,6,감가상각비율_diff,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M12_기타기계장비_제조업,7,비유동장기적합률,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)
+M12_기타기계장비_제조업,8,순운전자본비율,안정성 (Solvency),★ 핵심피처 (SHAP+Perm 모두 높음)

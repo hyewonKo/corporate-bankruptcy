@@ -1,0 +1,7 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M17_전기_가스_수도사업,1,금융비용부담률_ratio,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M17_전기_가스_수도사업,2,총자본영업이익률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M17_전기_가스_수도사업,2,재고자산회전율_ratio,활동성 (Activity),★ 핵심피처 (SHAP+Perm 모두 높음)
+M17_전기_가스_수도사업,4,ROA,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M17_전기_가스_수도사업,5,ROIC_diff,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M17_전기_가스_수도사업,7,현금전환주기_CCC_diff,활동성 (Activity),★ 핵심피처 (SHAP+Perm 모두 높음)

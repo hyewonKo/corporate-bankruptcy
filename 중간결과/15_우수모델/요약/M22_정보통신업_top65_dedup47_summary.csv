@@ -1,0 +1,2 @@
+﻿Industry,FeatureSet,FeatureFile,N_Features,Method,SMOTE_Ratio,Model,Recall_min,Threshold_basis,Threshold,CV_Val_F1,Test_F1,Gap_F1,CV_Val_Recall,Test_Recall,Gap_Recall,CV_Val_Precision,Test_Precision,Gap_Precision,CV_Val_ROC_AUC,Test_ROC_AUC,Gap_ROC_AUC,CV_Val_PR_AUC,Test_PR_AUC,Gap_PR_AUC,CV_Val_Accuracy,Test_Accuracy,Gap_Accuracy
+M22_정보통신업,top65_dedup47,lasso_features_top65--47.csv,47,ClassWeight,-,LogisticRegression,0.9,Test,0.05,0.0815,0.2161,0.1346,0.9878,0.9085,-0.0794,0.0426,0.1227,0.0801,0.8377,0.8342,-0.0036,0.1881,0.3354,0.1473,0.1668,0.5032,0.3364

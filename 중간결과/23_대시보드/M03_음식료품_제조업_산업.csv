@@ -1,0 +1,8 @@
+﻿업종,Combined_Rank,Feature,Category,Feature_Type
+M03_음식료품_제조업,1,총자본영업이익률_diff,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M03_음식료품_제조업,2,ROA변화_ratio,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M03_음식료품_제조업,3,금융비용부담률,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M03_음식료품_제조업,4,영업CF_총부채,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
+M03_음식료품_제조업,5,사내유보율_ratio_industry,수익성 (Profitability),★ 핵심피처 (SHAP+Perm 모두 높음)
+M03_음식료품_제조업,6,매입채무회전율_ratio_industry,활동성 (Activity),★ 핵심피처 (SHAP+Perm 모두 높음)
+M03_음식료품_제조업,10,감가상각비율_ratio,현금흐름 (Cash Flow),★ 핵심피처 (SHAP+Perm 모두 높음)
